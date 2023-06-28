@@ -5,10 +5,14 @@
       <h1 class="text-4xl font-bold">KEVYN LOPES</h1>
       <p class="">DESENVOLVEDOR FULLSTACK</p>
       <div class="flex justify-center gap-3">
-        <a href="https://github.com/kevynlopes" target="_blank"
+        <a
+          class="hover:scale-125 transition"
+          href="https://github.com/kevynlopes"
+          target="_blank"
           ><img src="../assets/github.png" width="25"
         /></a>
         <a
+          class="hover:scale-125 transition"
           href="https://www.linkedin.com/in/kevyn-lopes-a5486b242/"
           target="_blank"
           ><img src="../assets/linkedin.png" width="25"
