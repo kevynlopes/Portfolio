@@ -4,16 +4,18 @@
       <img
         src="../assets/logo.png"
         alt="logo"
-        class="bg-black w-24 rounded-full max-sm:w-10 max-sm:absolute aspect-square right-6 bottom-8"
+        class="bg-black w-24 h-24 rounded-full max-sm:w-10 max-sm:absolute aspect-square right-6 bottom-8"
       />
-      <div>
+      <div class="flex flex-col items-center">
         <h3 class="font-bold text-center">SOBRE MIM</h3>
-        <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque,
-          distinctio?
+        <p class="w-1/3">
+          Olá, meu nome é Kevyn Lopes e sou um desenvolvedor fullstack
+          apaixonado por tecnologia. Tenho experiência e habilidades sólidas no
+          desenvolvimento de aplicativos e websites, usando ferramentas modernas
+          como Vue.js, React.js e C#.
         </p>
         <p class="text-center font-semibold pt-6">
-          © 2023, feito usando Vue.js
+          © Todos os direitos reservados, feito usando Vue.js. 2023
         </p>
       </div>
       <div>
